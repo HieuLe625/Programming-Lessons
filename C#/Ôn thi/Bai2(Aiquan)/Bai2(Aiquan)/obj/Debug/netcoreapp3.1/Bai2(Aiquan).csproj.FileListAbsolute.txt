@@ -1,0 +1,15 @@
+F:\Hieu\Visual\Ôn thi\Bai2(Aiquan)\Bai2(Aiquan)\bin\Debug\netcoreapp3.1\Bai2(Aiquan).exe
+F:\Hieu\Visual\Ôn thi\Bai2(Aiquan)\Bai2(Aiquan)\bin\Debug\netcoreapp3.1\Bai2(Aiquan).deps.json
+F:\Hieu\Visual\Ôn thi\Bai2(Aiquan)\Bai2(Aiquan)\bin\Debug\netcoreapp3.1\Bai2(Aiquan).runtimeconfig.json
+F:\Hieu\Visual\Ôn thi\Bai2(Aiquan)\Bai2(Aiquan)\bin\Debug\netcoreapp3.1\Bai2(Aiquan).runtimeconfig.dev.json
+F:\Hieu\Visual\Ôn thi\Bai2(Aiquan)\Bai2(Aiquan)\bin\Debug\netcoreapp3.1\Bai2(Aiquan).dll
+F:\Hieu\Visual\Ôn thi\Bai2(Aiquan)\Bai2(Aiquan)\bin\Debug\netcoreapp3.1\Bai2(Aiquan).pdb
+F:\Hieu\Visual\Ôn thi\Bai2(Aiquan)\Bai2(Aiquan)\obj\Debug\netcoreapp3.1\Bai2(Aiquan).csprojAssemblyReference.cache
+F:\Hieu\Visual\Ôn thi\Bai2(Aiquan)\Bai2(Aiquan)\obj\Debug\netcoreapp3.1\Bai2_Aiquan_.Form1.resources
+F:\Hieu\Visual\Ôn thi\Bai2(Aiquan)\Bai2(Aiquan)\obj\Debug\netcoreapp3.1\Bai2(Aiquan).csproj.GenerateResource.cache
+F:\Hieu\Visual\Ôn thi\Bai2(Aiquan)\Bai2(Aiquan)\obj\Debug\netcoreapp3.1\Bai2(Aiquan).AssemblyInfoInputs.cache
+F:\Hieu\Visual\Ôn thi\Bai2(Aiquan)\Bai2(Aiquan)\obj\Debug\netcoreapp3.1\Bai2(Aiquan).AssemblyInfo.cs
+F:\Hieu\Visual\Ôn thi\Bai2(Aiquan)\Bai2(Aiquan)\obj\Debug\netcoreapp3.1\Bai2(Aiquan).csproj.CoreCompileInputs.cache
+F:\Hieu\Visual\Ôn thi\Bai2(Aiquan)\Bai2(Aiquan)\obj\Debug\netcoreapp3.1\Bai2(Aiquan).dll
+F:\Hieu\Visual\Ôn thi\Bai2(Aiquan)\Bai2(Aiquan)\obj\Debug\netcoreapp3.1\Bai2(Aiquan).pdb
+F:\Hieu\Visual\Ôn thi\Bai2(Aiquan)\Bai2(Aiquan)\obj\Debug\netcoreapp3.1\Bai2(Aiquan).genruntimeconfig.cache

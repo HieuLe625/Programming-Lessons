@@ -1,0 +1,7 @@
+E:\C#\Buoi6_kethua\Buoi6_kethua\bin\Debug\Buoi6_kethua.exe.config
+E:\C#\Buoi6_kethua\Buoi6_kethua\bin\Debug\Buoi6_kethua.exe
+E:\C#\Buoi6_kethua\Buoi6_kethua\bin\Debug\Buoi6_kethua.pdb
+E:\C#\Buoi6_kethua\Buoi6_kethua\obj\Debug\Buoi6_kethua.csprojAssemblyReference.cache
+E:\C#\Buoi6_kethua\Buoi6_kethua\obj\Debug\Buoi6_kethua.csproj.CoreCompileInputs.cache
+E:\C#\Buoi6_kethua\Buoi6_kethua\obj\Debug\Buoi6_kethua.exe
+E:\C#\Buoi6_kethua\Buoi6_kethua\obj\Debug\Buoi6_kethua.pdb

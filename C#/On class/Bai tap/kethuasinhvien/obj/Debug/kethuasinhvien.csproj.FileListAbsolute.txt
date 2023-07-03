@@ -1,0 +1,14 @@
+C:\Users\LE THI THUY NGA\Desktop\kethuasinhvien\bin\Debug\kethuasinhvien.exe.config
+C:\Users\LE THI THUY NGA\Desktop\kethuasinhvien\bin\Debug\kethuasinhvien.exe
+C:\Users\LE THI THUY NGA\Desktop\kethuasinhvien\bin\Debug\kethuasinhvien.pdb
+C:\Users\LE THI THUY NGA\Desktop\kethuasinhvien\obj\Debug\kethuasinhvien.csprojAssemblyReference.cache
+C:\Users\LE THI THUY NGA\Desktop\kethuasinhvien\obj\Debug\kethuasinhvien.csproj.CoreCompileInputs.cache
+C:\Users\LE THI THUY NGA\Desktop\kethuasinhvien\obj\Debug\kethuasinhvien.exe
+C:\Users\LE THI THUY NGA\Desktop\kethuasinhvien\obj\Debug\kethuasinhvien.pdb
+D:\GIÁO ÁN GIẢNG DẠY\KỸ THUẬT LẬP TRÌNH TRỰC QUAN\BÀI TẬP CONSOLE APPLICATION\kethuasinhvien\bin\Debug\kethuasinhvien.exe.config
+D:\GIÁO ÁN GIẢNG DẠY\KỸ THUẬT LẬP TRÌNH TRỰC QUAN\BÀI TẬP CONSOLE APPLICATION\kethuasinhvien\bin\Debug\kethuasinhvien.exe
+D:\GIÁO ÁN GIẢNG DẠY\KỸ THUẬT LẬP TRÌNH TRỰC QUAN\BÀI TẬP CONSOLE APPLICATION\kethuasinhvien\bin\Debug\kethuasinhvien.pdb
+D:\GIÁO ÁN GIẢNG DẠY\KỸ THUẬT LẬP TRÌNH TRỰC QUAN\BÀI TẬP CONSOLE APPLICATION\kethuasinhvien\obj\Debug\kethuasinhvien.csprojAssemblyReference.cache
+D:\GIÁO ÁN GIẢNG DẠY\KỸ THUẬT LẬP TRÌNH TRỰC QUAN\BÀI TẬP CONSOLE APPLICATION\kethuasinhvien\obj\Debug\kethuasinhvien.csproj.CoreCompileInputs.cache
+D:\GIÁO ÁN GIẢNG DẠY\KỸ THUẬT LẬP TRÌNH TRỰC QUAN\BÀI TẬP CONSOLE APPLICATION\kethuasinhvien\obj\Debug\kethuasinhvien.exe
+D:\GIÁO ÁN GIẢNG DẠY\KỸ THUẬT LẬP TRÌNH TRỰC QUAN\BÀI TẬP CONSOLE APPLICATION\kethuasinhvien\obj\Debug\kethuasinhvien.pdb

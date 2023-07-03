@@ -1,0 +1,15 @@
+F:\Hieu\Visual\Home\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csprojAssemblyReference.cache
+F:\Hieu\Visual\Home\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.Form1.resources
+F:\Hieu\Visual\Home\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.GenerateResource.cache
+F:\Hieu\Visual\Home\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+F:\Hieu\Visual\Home\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+F:\Hieu\Visual\Home\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+F:\Hieu\Visual\Home\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+F:\Hieu\Visual\Home\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+F:\Hieu\Visual\Home\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+F:\Hieu\Visual\Home\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+F:\Hieu\Visual\Home\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+F:\Hieu\Visual\Home\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+F:\Hieu\Visual\Home\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+F:\Hieu\Visual\Home\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+F:\Hieu\Visual\Home\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache

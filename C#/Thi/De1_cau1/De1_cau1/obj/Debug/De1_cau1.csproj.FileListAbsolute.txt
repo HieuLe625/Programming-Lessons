@@ -1,0 +1,7 @@
+F:\Hieu\Visual\Thi\De1_cau1\De1_cau1\bin\Debug\De1_cau1.exe.config
+F:\Hieu\Visual\Thi\De1_cau1\De1_cau1\bin\Debug\De1_cau1.exe
+F:\Hieu\Visual\Thi\De1_cau1\De1_cau1\bin\Debug\De1_cau1.pdb
+F:\Hieu\Visual\Thi\De1_cau1\De1_cau1\obj\Debug\De1_cau1.csprojAssemblyReference.cache
+F:\Hieu\Visual\Thi\De1_cau1\De1_cau1\obj\Debug\De1_cau1.csproj.CoreCompileInputs.cache
+F:\Hieu\Visual\Thi\De1_cau1\De1_cau1\obj\Debug\De1_cau1.exe
+F:\Hieu\Visual\Thi\De1_cau1\De1_cau1\obj\Debug\De1_cau1.pdb

@@ -1,0 +1,9 @@
+F:\Hieu\Visual\Home\Bai1\Exersise\bin\Debug\Exersise.exe.config
+F:\Hieu\Visual\Home\Bai1\Exersise\bin\Debug\Exersise.exe
+F:\Hieu\Visual\Home\Bai1\Exersise\bin\Debug\Exersise.pdb
+F:\Hieu\Visual\Home\Bai1\Exersise\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+F:\Hieu\Visual\Home\Bai1\Exersise\obj\Debug\Bai2.csprojAssemblyReference.cache
+F:\Hieu\Visual\Home\Bai1\Exersise\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+F:\Hieu\Visual\Home\Bai1\Exersise\obj\Debug\Bai2.csproj.CopyComplete
+F:\Hieu\Visual\Home\Bai1\Exersise\obj\Debug\Exersise.exe
+F:\Hieu\Visual\Home\Bai1\Exersise\obj\Debug\Exersise.pdb

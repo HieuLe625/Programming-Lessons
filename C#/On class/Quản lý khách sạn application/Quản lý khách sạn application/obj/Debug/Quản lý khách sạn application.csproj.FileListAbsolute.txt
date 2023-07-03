@@ -1,0 +1,49 @@
+C:\Users\LENOVO\source\repos\Quản lý khách sạn application\Quản lý khách sạn application\bin\Debug\Quản lý khách sạn application.exe.config
+C:\Users\LENOVO\source\repos\Quản lý khách sạn application\Quản lý khách sạn application\bin\Debug\Quản lý khách sạn application.exe
+C:\Users\LENOVO\source\repos\Quản lý khách sạn application\Quản lý khách sạn application\bin\Debug\Quản lý khách sạn application.pdb
+C:\Users\LENOVO\source\repos\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản_lý_khách_sạn_application.Form1.resources
+C:\Users\LENOVO\source\repos\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản_lý_khách_sạn_application.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.exe
+C:\Users\LENOVO\source\repos\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.pdb
+E:\Visual studio\Quản lý khách sạn application\Quản lý khách sạn application\bin\Debug\Quản lý khách sạn application.exe.config
+E:\Visual studio\Quản lý khách sạn application\Quản lý khách sạn application\bin\Debug\Quản lý khách sạn application.exe
+E:\Visual studio\Quản lý khách sạn application\Quản lý khách sạn application\bin\Debug\Quản lý khách sạn application.pdb
+E:\Visual studio\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.csprojAssemblyReference.cache
+E:\Visual studio\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản_lý_khách_sạn_application.Form1.resources
+E:\Visual studio\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản_lý_khách_sạn_application.Properties.Resources.resources
+E:\Visual studio\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.csproj.GenerateResource.cache
+E:\Visual studio\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.csproj.CoreCompileInputs.cache
+E:\Visual studio\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.exe
+E:\Visual studio\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.pdb
+C:\Users\LE THI THUY NGA\Downloads\Bài tập WinFormApp Đặng Dương Huy - TĐH03\Đặng Dương Huy - TĐH03\Quản lý khách sạn application\Quản lý khách sạn application\bin\Debug\Quản lý khách sạn application.exe.config
+C:\Users\LE THI THUY NGA\Downloads\Bài tập WinFormApp Đặng Dương Huy - TĐH03\Đặng Dương Huy - TĐH03\Quản lý khách sạn application\Quản lý khách sạn application\bin\Debug\Quản lý khách sạn application.exe
+C:\Users\LE THI THUY NGA\Downloads\Bài tập WinFormApp Đặng Dương Huy - TĐH03\Đặng Dương Huy - TĐH03\Quản lý khách sạn application\Quản lý khách sạn application\bin\Debug\Quản lý khách sạn application.pdb
+C:\Users\LE THI THUY NGA\Downloads\Bài tập WinFormApp Đặng Dương Huy - TĐH03\Đặng Dương Huy - TĐH03\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.csprojAssemblyReference.cache
+C:\Users\LE THI THUY NGA\Downloads\Bài tập WinFormApp Đặng Dương Huy - TĐH03\Đặng Dương Huy - TĐH03\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản_lý_khách_sạn_application.Form1.resources
+C:\Users\LE THI THUY NGA\Downloads\Bài tập WinFormApp Đặng Dương Huy - TĐH03\Đặng Dương Huy - TĐH03\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản_lý_khách_sạn_application.Properties.Resources.resources
+C:\Users\LE THI THUY NGA\Downloads\Bài tập WinFormApp Đặng Dương Huy - TĐH03\Đặng Dương Huy - TĐH03\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.csproj.GenerateResource.cache
+C:\Users\LE THI THUY NGA\Downloads\Bài tập WinFormApp Đặng Dương Huy - TĐH03\Đặng Dương Huy - TĐH03\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.exe
+C:\Users\LE THI THUY NGA\Downloads\Bài tập WinFormApp Đặng Dương Huy - TĐH03\Đặng Dương Huy - TĐH03\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.pdb
+D:\GIÁO ÁN GIẢNG DẠY\KỸ THUẬT LẬP TRÌNH TRỰC QUAN\BÀI TẬP WINDOWS FORM\Đặng Dương Huy - TĐH03\Quản lý khách sạn application\Quản lý khách sạn application\bin\Debug\Quản lý khách sạn application.exe.config
+D:\GIÁO ÁN GIẢNG DẠY\KỸ THUẬT LẬP TRÌNH TRỰC QUAN\BÀI TẬP WINDOWS FORM\Đặng Dương Huy - TĐH03\Quản lý khách sạn application\Quản lý khách sạn application\bin\Debug\Quản lý khách sạn application.exe
+D:\GIÁO ÁN GIẢNG DẠY\KỸ THUẬT LẬP TRÌNH TRỰC QUAN\BÀI TẬP WINDOWS FORM\Đặng Dương Huy - TĐH03\Quản lý khách sạn application\Quản lý khách sạn application\bin\Debug\Quản lý khách sạn application.pdb
+D:\GIÁO ÁN GIẢNG DẠY\KỸ THUẬT LẬP TRÌNH TRỰC QUAN\BÀI TẬP WINDOWS FORM\Đặng Dương Huy - TĐH03\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.csprojAssemblyReference.cache
+D:\GIÁO ÁN GIẢNG DẠY\KỸ THUẬT LẬP TRÌNH TRỰC QUAN\BÀI TẬP WINDOWS FORM\Đặng Dương Huy - TĐH03\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản_lý_khách_sạn_application.Form1.resources
+D:\GIÁO ÁN GIẢNG DẠY\KỸ THUẬT LẬP TRÌNH TRỰC QUAN\BÀI TẬP WINDOWS FORM\Đặng Dương Huy - TĐH03\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản_lý_khách_sạn_application.Properties.Resources.resources
+D:\GIÁO ÁN GIẢNG DẠY\KỸ THUẬT LẬP TRÌNH TRỰC QUAN\BÀI TẬP WINDOWS FORM\Đặng Dương Huy - TĐH03\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.csproj.GenerateResource.cache
+D:\GIÁO ÁN GIẢNG DẠY\KỸ THUẬT LẬP TRÌNH TRỰC QUAN\BÀI TẬP WINDOWS FORM\Đặng Dương Huy - TĐH03\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.csproj.CoreCompileInputs.cache
+D:\GIÁO ÁN GIẢNG DẠY\KỸ THUẬT LẬP TRÌNH TRỰC QUAN\BÀI TẬP WINDOWS FORM\Đặng Dương Huy - TĐH03\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.exe
+D:\GIÁO ÁN GIẢNG DẠY\KỸ THUẬT LẬP TRÌNH TRỰC QUAN\BÀI TẬP WINDOWS FORM\Đặng Dương Huy - TĐH03\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.pdb
+F:\Hieu\Visual\On class\Quản lý khách sạn application\Quản lý khách sạn application\bin\Debug\Quản lý khách sạn application.exe.config
+F:\Hieu\Visual\On class\Quản lý khách sạn application\Quản lý khách sạn application\bin\Debug\Quản lý khách sạn application.exe
+F:\Hieu\Visual\On class\Quản lý khách sạn application\Quản lý khách sạn application\bin\Debug\Quản lý khách sạn application.pdb
+F:\Hieu\Visual\On class\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.csprojAssemblyReference.cache
+F:\Hieu\Visual\On class\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản_lý_khách_sạn_application.Form1.resources
+F:\Hieu\Visual\On class\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản_lý_khách_sạn_application.Properties.Resources.resources
+F:\Hieu\Visual\On class\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.csproj.GenerateResource.cache
+F:\Hieu\Visual\On class\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.csproj.CoreCompileInputs.cache
+F:\Hieu\Visual\On class\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.exe
+F:\Hieu\Visual\On class\Quản lý khách sạn application\Quản lý khách sạn application\obj\Debug\Quản lý khách sạn application.pdb

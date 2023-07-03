@@ -1,0 +1,7 @@
+E:\C#\buoi4_dientichHCN\buoi4_dientichHCN\bin\Debug\buoi4_dientichHCN.exe.config
+E:\C#\buoi4_dientichHCN\buoi4_dientichHCN\bin\Debug\buoi4_dientichHCN.exe
+E:\C#\buoi4_dientichHCN\buoi4_dientichHCN\bin\Debug\buoi4_dientichHCN.pdb
+E:\C#\buoi4_dientichHCN\buoi4_dientichHCN\obj\Debug\buoi4_dientichHCN.csprojAssemblyReference.cache
+E:\C#\buoi4_dientichHCN\buoi4_dientichHCN\obj\Debug\buoi4_dientichHCN.csproj.CoreCompileInputs.cache
+E:\C#\buoi4_dientichHCN\buoi4_dientichHCN\obj\Debug\buoi4_dientichHCN.exe
+E:\C#\buoi4_dientichHCN\buoi4_dientichHCN\obj\Debug\buoi4_dientichHCN.pdb

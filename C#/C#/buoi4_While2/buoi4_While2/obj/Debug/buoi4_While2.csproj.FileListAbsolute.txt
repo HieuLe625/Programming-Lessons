@@ -1,0 +1,6 @@
+E:\C#\buoi4_While2\buoi4_While2\bin\Debug\buoi4_While2.exe.config
+E:\C#\buoi4_While2\buoi4_While2\bin\Debug\buoi4_While2.exe
+E:\C#\buoi4_While2\buoi4_While2\bin\Debug\buoi4_While2.pdb
+E:\C#\buoi4_While2\buoi4_While2\obj\Debug\buoi4_While2.csproj.CoreCompileInputs.cache
+E:\C#\buoi4_While2\buoi4_While2\obj\Debug\buoi4_While2.exe
+E:\C#\buoi4_While2\buoi4_While2\obj\Debug\buoi4_While2.pdb

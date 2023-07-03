@@ -1,0 +1,7 @@
+E:\C#\Buoi8_nhapmang_qly_hhoa\Buoi8_nhapmang_qly_hhoa\bin\Debug\Buoi8_nhapmang_qly_hhoa.exe.config
+E:\C#\Buoi8_nhapmang_qly_hhoa\Buoi8_nhapmang_qly_hhoa\bin\Debug\Buoi8_nhapmang_qly_hhoa.exe
+E:\C#\Buoi8_nhapmang_qly_hhoa\Buoi8_nhapmang_qly_hhoa\bin\Debug\Buoi8_nhapmang_qly_hhoa.pdb
+E:\C#\Buoi8_nhapmang_qly_hhoa\Buoi8_nhapmang_qly_hhoa\obj\Debug\Buoi8_nhapmang_qly_hhoa.csprojAssemblyReference.cache
+E:\C#\Buoi8_nhapmang_qly_hhoa\Buoi8_nhapmang_qly_hhoa\obj\Debug\Buoi8_nhapmang_qly_hhoa.csproj.CoreCompileInputs.cache
+E:\C#\Buoi8_nhapmang_qly_hhoa\Buoi8_nhapmang_qly_hhoa\obj\Debug\Buoi8_nhapmang_qly_hhoa.exe
+E:\C#\Buoi8_nhapmang_qly_hhoa\Buoi8_nhapmang_qly_hhoa\obj\Debug\Buoi8_nhapmang_qly_hhoa.pdb

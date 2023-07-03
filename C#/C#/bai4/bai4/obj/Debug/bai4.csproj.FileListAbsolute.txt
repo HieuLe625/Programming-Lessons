@@ -1,0 +1,7 @@
+E:\C#\bai4\bai4\obj\Debug\bai4.csprojAssemblyReference.cache
+E:\C#\bai4\bai4\obj\Debug\bai4.csproj.CoreCompileInputs.cache
+E:\C#\bai4\bai4\bin\Debug\bai4.exe.config
+E:\C#\bai4\bai4\bin\Debug\bai4.exe
+E:\C#\bai4\bai4\bin\Debug\bai4.pdb
+E:\C#\bai4\bai4\obj\Debug\bai4.exe
+E:\C#\bai4\bai4\obj\Debug\bai4.pdb

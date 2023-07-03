@@ -1,0 +1,15 @@
+F:\Hieu\Visual\Thi\De1_cau2\De1_cau2\bin\Debug\netcoreapp3.1\De1_cau2.exe
+F:\Hieu\Visual\Thi\De1_cau2\De1_cau2\bin\Debug\netcoreapp3.1\De1_cau2.deps.json
+F:\Hieu\Visual\Thi\De1_cau2\De1_cau2\bin\Debug\netcoreapp3.1\De1_cau2.runtimeconfig.json
+F:\Hieu\Visual\Thi\De1_cau2\De1_cau2\bin\Debug\netcoreapp3.1\De1_cau2.runtimeconfig.dev.json
+F:\Hieu\Visual\Thi\De1_cau2\De1_cau2\bin\Debug\netcoreapp3.1\De1_cau2.dll
+F:\Hieu\Visual\Thi\De1_cau2\De1_cau2\bin\Debug\netcoreapp3.1\De1_cau2.pdb
+F:\Hieu\Visual\Thi\De1_cau2\De1_cau2\obj\Debug\netcoreapp3.1\De1_cau2.csprojAssemblyReference.cache
+F:\Hieu\Visual\Thi\De1_cau2\De1_cau2\obj\Debug\netcoreapp3.1\De1_cau2.Form1.resources
+F:\Hieu\Visual\Thi\De1_cau2\De1_cau2\obj\Debug\netcoreapp3.1\De1_cau2.csproj.GenerateResource.cache
+F:\Hieu\Visual\Thi\De1_cau2\De1_cau2\obj\Debug\netcoreapp3.1\De1_cau2.AssemblyInfoInputs.cache
+F:\Hieu\Visual\Thi\De1_cau2\De1_cau2\obj\Debug\netcoreapp3.1\De1_cau2.AssemblyInfo.cs
+F:\Hieu\Visual\Thi\De1_cau2\De1_cau2\obj\Debug\netcoreapp3.1\De1_cau2.csproj.CoreCompileInputs.cache
+F:\Hieu\Visual\Thi\De1_cau2\De1_cau2\obj\Debug\netcoreapp3.1\De1_cau2.dll
+F:\Hieu\Visual\Thi\De1_cau2\De1_cau2\obj\Debug\netcoreapp3.1\De1_cau2.pdb
+F:\Hieu\Visual\Thi\De1_cau2\De1_cau2\obj\Debug\netcoreapp3.1\De1_cau2.genruntimeconfig.cache

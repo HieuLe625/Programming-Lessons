@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "De1_cau2/1.0.0": {
+        "runtime": {
+          "De1_cau2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "De1_cau2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

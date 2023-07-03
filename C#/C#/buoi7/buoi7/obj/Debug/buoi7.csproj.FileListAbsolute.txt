@@ -1,0 +1,7 @@
+E:\C#\buoi7\buoi7\bin\Debug\buoi7.exe.config
+E:\C#\buoi7\buoi7\bin\Debug\buoi7.exe
+E:\C#\buoi7\buoi7\bin\Debug\buoi7.pdb
+E:\C#\buoi7\buoi7\obj\Debug\buoi7.csprojAssemblyReference.cache
+E:\C#\buoi7\buoi7\obj\Debug\buoi7.csproj.CoreCompileInputs.cache
+E:\C#\buoi7\buoi7\obj\Debug\buoi7.exe
+E:\C#\buoi7\buoi7\obj\Debug\buoi7.pdb

@@ -1,0 +1,7 @@
+F:\Hieu\Visual\Ôn thi\bai4\bai4\bin\Debug\bai4.exe.config
+F:\Hieu\Visual\Ôn thi\bai4\bai4\bin\Debug\bai4.exe
+F:\Hieu\Visual\Ôn thi\bai4\bai4\bin\Debug\bai4.pdb
+F:\Hieu\Visual\Ôn thi\bai4\bai4\obj\Debug\bai4.csprojAssemblyReference.cache
+F:\Hieu\Visual\Ôn thi\bai4\bai4\obj\Debug\bai4.csproj.CoreCompileInputs.cache
+F:\Hieu\Visual\Ôn thi\bai4\bai4\obj\Debug\bai4.exe
+F:\Hieu\Visual\Ôn thi\bai4\bai4\obj\Debug\bai4.pdb
